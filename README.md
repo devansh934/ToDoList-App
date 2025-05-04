@@ -1,19 +1,20 @@
 
 # 📝 React To-Do List App
 
-A fully-featured and stylish To-Do List web application built using **React.js**, with:
+A fully-featured and stylish To-Do List web application built using **React.js**, featuring:
 
-- 🌑 Dark Mode toggle
-- ✍️ Add, Edit, Delete tasks
-- ✅ Mark tasks as completed
-- 🧭 Page navigation (Home, Features, About)
-- 🎨 Clean and modern UI (without Tailwind CSS)
+- 🌑 Dark Mode toggle  
+- ✍️ Add, Edit, Delete tasks  
+- ✅ Mark tasks as completed  
+- 🧭 Page navigation (Home, Features, About)  
+- 🎨 Clean and modern UI (no Tailwind CSS)
 
 ---
 
 ## 🚀 Demo
 
-![imgTodoList](https://github.com/user-attachments/assets/00e663c0-ea7f-4a1d-bcb5-703c60fa77d4)
+![imgTodoList](https://github.com/user-attachments/assets/69f2dd71-4625-4590-9d3e-b92ecfd15323)
+![Screenshot 2025-05-04 231216](https://github.com/user-attachments/assets/81dff974-46ae-4e25-b3b8-1f878780a098)
 
 ---
 
@@ -27,7 +28,7 @@ todo-app/
 │   ├── components/
 │   │   ├── Navbar.js
 │   │   ├── TodoForm.js
-│   │   ├── TodoItem.js
+│   │   └── TodoItem.js
 │   ├── context/
 │   │   └── ThemeContext.js
 │   ├── pages/
@@ -45,19 +46,19 @@ todo-app/
 
 ## ⚙️ Features
 
-- 🔄 Add, Edit, Delete to-do items
-- ✔️ Toggle completion status
-- 🌙 Toggle Dark/Light mode
-- 📱 Responsive layout
-- 🧭 Page Routing with React Router
+- 🔄 Add, Edit, and Delete tasks  
+- ✔️ Toggle task completion  
+- 🌙 Switch between Dark and Light mode  
+- 🧭 Navigate with React Router  
+- 📱 Fully responsive design
 
 ---
 
 ## 📦 Tech Stack
 
-- **React.js**
-- **React Router DOM**
-- **CSS** (No external UI libraries used)
+- **React.js**  
+- **React Router DOM**  
+- **CSS** (no external UI frameworks)  
 - **Context API** (for theme management)
 
 ---
@@ -65,14 +66,9 @@ todo-app/
 ## 🛠️ Installation
 
 ```bash
-# Clone the repo
-git clone [https://github.com/devansh934/ToDoList-App.git]
+git clone https://github.com/devansh934/ToDoList-App.git
 cd todo-app
-
-# Install dependencies
 npm install
-
-# Start the development server
 npm start
 ```
 
@@ -80,9 +76,9 @@ npm start
 
 ## 🧠 Learnings
 
-- Component-based architecture
-- State management with hooks
-- Theme toggling using Context
+- Component-based architecture  
+- State management using hooks  
+- Theme toggling with Context API  
 - Routing with React Router
 
 ---
@@ -90,13 +86,12 @@ npm start
 ## 🙌 Contributing
 
 Pull requests are welcome!  
-Feel free to fork this project and submit improvements.
+Fork the repo and feel free to suggest new features or improvements.
 
 ---
-
-
 
 ## 📬 Contact
 
 Created with 💙 by **Devansh Patel**  
-GitHub: [devansh934](https://github.com/devansh934)
+GitHub: [@devansh934](https://github.com/devansh934)
+
