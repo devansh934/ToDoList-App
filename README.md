@@ -13,8 +13,7 @@ A fully-featured and stylish To-Do List web application built using **React.js**
 
 ## 🚀 Demo
 
-![App Screenshot](https://via.placeholder.com/800x400?text=React+To-Do+App+Screenshot)  
-*(Replace with actual screenshot)*
+![imgTodoList](https://github.com/user-attachments/assets/00e663c0-ea7f-4a1d-bcb5-703c60fa77d4)
 
 ---
 
