@@ -13,9 +13,9 @@ A fully-featured and stylish To-Do List web application built using **React.js**
 
 ## 🚀 Demo
 
-![imgTodoList](https://github.com/user-attachments/assets/69f2dd71-4625-4590-9d3e-b92ecfd15323)
-![Screenshot 2025-05-04 231216](https://github.com/user-attachments/assets/81dff974-46ae-4e25-b3b8-1f878780a098)
 
+![Screenshot 2025-05-04 231216](https://github.com/user-attachments/assets/81dff974-46ae-4e25-b3b8-1f878780a098)
+![imgTodoList](https://github.com/user-attachments/assets/69f2dd71-4625-4590-9d3e-b92ecfd15323)
 ---
 
 ## 📁 Project Structure
