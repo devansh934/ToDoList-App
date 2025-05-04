@@ -67,7 +67,7 @@ todo-app/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/todo-app.git
+git clone [https://github.com/devansh934/ToDoList-App.git]
 cd todo-app
 
 # Install dependencies
